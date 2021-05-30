@@ -1,4 +1,4 @@
-### 👋 Hi, I’m, 
+## 👋 Hi, I’m, 
 # Prottay Karim!
 - 👀 I’m interested in Data, ML and Software Dev
 - 🌱 I’m currently learning Python, DBMS and ML
