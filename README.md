@@ -10,6 +10,7 @@
 - ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
 
 
+<img height = "20" src="https://www.python.org/static/opengraph-icon-200x200.png"> <img height = "20" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png">
 <!---
 prottayislive/prottayislive is your go to connect with me!
 --->
