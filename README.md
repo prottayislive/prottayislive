@@ -1,11 +1,15 @@
-### 👋 Hi, I’m,
+![1623088485312](https://user-images.githubusercontent.com/70666023/122691198-7fab4400-d271-11eb-9f4b-d4c8324bb38b.jpg)
+
+### 👋 Hi there, I’m
 # Prottay Karim
-- 👀 I’m interested in Data, ML and Software Dev
+- 👀 I’m interested in working on  ML, Data, and Software Development
 - 🌱 I’m currently learning Python, DBMS and ML
 - 💞️ I’m looking to collaborate on any project that helps the develpoer community.
 - 📫 Email me: prottayk45@gmail.com
-- 🔗 LinkedIn : https://www.linkedin.com/in/prottayk
-- 🦆 Twitter: @karim_prottay
+- <img height = "20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">  https://www.linkedin.com/in/prottayk
+- ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
+
+
 <!---
 prottayislive/prottayislive is your go to connect with me!
 --->
