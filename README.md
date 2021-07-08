@@ -7,10 +7,6 @@
 - 💞️ I’m looking to collaborate on any project that helps the develpoer community.
 - 📫 Email me: prottayk45@gmail.com
 - <img height = "20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">  https://www.linkedin.com/in/prottayk
--  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/prottayk"
 - ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
 
 
