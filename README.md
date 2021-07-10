@@ -10,7 +10,7 @@
 - ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
 
 
-<img height = "50" src="https://www.python.org/static/opengraph-icon-200x200.png"> <img height = "50" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"> <img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"><img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+<img height = "50" src="https://www.python.org/static/opengraph-icon-200x200.png"><img height = "50" src="https://i.pinimg.com/originals/3f/6e/c4/3f6ec446dd918554f22b774dbd5927c3.png"> <img height = "50" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"> <img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"><img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
 <!---
 prottayislive/prottayislive is your go to connect with me!
 --->
