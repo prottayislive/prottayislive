@@ -5,6 +5,7 @@
 - 👀 I’m interested in working on  ML, Data, and Software Development
 - 🌱 I’m currently learning Python, DBMS and ML
 - 💞️ I’m looking to collaborate on any project that helps the develpoer community.
+- 🚀 I'm an international student at [RMIT University](https://www.rmit.edu.au/), Melbourne.
 - 📫 Email me: prottayk45@gmail.com
 - <img height = "20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">  [LinkedIn: Prottay Karim](https://www.linkedin.com/in/prottayk)
 - ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
