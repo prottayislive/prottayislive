@@ -4,10 +4,9 @@
 # Prottay Karim
 - 👀 I’m interested in working on  ML, Data, and Software Development
 - 🌱 I’m currently learning Python, DBMS and ML
-- 💞️ I’m looking to collaborate on any project that helps the develpoer community.
-- 🚀 I'm an international student at [RMIT University](https://www.rmit.edu.au/), Melbourne.
-- 📫 Email me: prottayk45@gmail.com
-- <img height = "20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">  [LinkedIn: Prottay Karim](https://www.linkedin.com/in/prottayk)
+- 🚀 I’m looking to collaborate on any project that helps the develpoer community.  
+- 📫 Email me: [prottayk45@gmail.com](prottayk45@gmail.com)
+- <img height = "20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">  LinkedIn: [Prottay Karim](https://www.linkedin.com/in/prottayk)
 - ![Twitter Follow](https://img.shields.io/twitter/follow/karim_prottay?style=social)
 - <img height = "20" src="https://camo.githubusercontent.com/898f94be504f7baf1ddb0a2811152dab61cfd723e683b6947be9ffa3c879ccc4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36352f4861636b657252616e6b5f6c6f676f2e706e67"> [Hacker Rank ID - Prottay Karim](https://www.hackerrank.com/prottayk45)
 
