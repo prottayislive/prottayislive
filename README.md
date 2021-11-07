@@ -12,6 +12,7 @@
 
 
 <img height = "50" src="https://www.python.org/static/opengraph-icon-200x200.png"><img height = "50" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"><img height = "50" src="https://docs.zeet.co/assets/images/flask-a3319b33492c2abbf2abfc0403064405.png"> <img height = "50" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"> <img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"><img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">                                                <img height = "40" src="https://www.w3schools.com/whatis/img_js.png">
+<img height = "40" src="https://talenthometraining.in/wp-content/uploads/2019/02/Icons-SQL-01-1024x1024.png">
 <!---
 prottayislive/prottayislive is your go to connect with me!
 --->
