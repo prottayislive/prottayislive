@@ -5,9 +5,9 @@
 - 👀 I’m interested in working on  ML, Data, and Software Development
 - 🌱 I’m currently learning Python, DBMS and ML
 - 🚀 I’m looking to collaborate on any project that helps the develpoer community.  
-- 🧙 Fun fact- I ❤️ - 🐉D&D, ☕Coffee and 🎮 Video Games
+- 🧙 Fun fact- I ❤️ D&D🐉 - Coffee☕ - 🎮 Video Games
 
-- 📫 Email me: [prottayk45@gmail.com](prottayk45@gmail.com) || [prottay.karim@studentambassadors.com](prottay.karim@studentambassadors.com)
+- 📫 Email me: [prottayk45@gmail.com](mailto:prottayk45@gmail.com) || [prottay.karim@studentambassadors.com](mailto:prottay.karim@studentambassadors.com)
 #### 🔗 Connect with me -
 <p align="left">
 <a href="https://medium.com/@prottaykarim" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="Pottay Karim" height="40" width="40" /></a>
