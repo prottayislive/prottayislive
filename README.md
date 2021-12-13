@@ -1,7 +1,7 @@
 ![1623088485312](https://user-images.githubusercontent.com/70666023/122691198-7fab4400-d271-11eb-9f4b-d4c8324bb38b.jpg)
 
-## <img height = "30" src="https://user-images.githubusercontent.com/70666023/141174031-9874b82d-f801-4eea-be8c-4789f1469891.gif"> Hi there, I’m 
-# Prottay Karim
+## <img height = "30" src="https://user-images.githubusercontent.com/70666023/141174031-9874b82d-f801-4eea-be8c-4789f1469891.gif"> Hi there, I’m <span style="font-size:80px;">Prottay Karim (PK)</span>
+
 - 👀 I’m interested in working on  ML, Data, and Software Development
 - 🌱 I’m currently learning Python, DBMS and ML
 - 🚀 I’m looking to contribute/collaborate on any project that helps the developer community.  
