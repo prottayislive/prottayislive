@@ -10,7 +10,7 @@
 - 📫 Email me: [prottayk45@gmail.com](mailto:prottayk45@gmail.com) || [prottay.karim@studentambassadors.com](mailto:prottay.karim@studentambassadors.com)
 
 <br></br>
-## 🔗 Stay in touch -
+## 🔗 Get in touch -
 <p align="left">
 <a href="https://medium.com/@prottaykarim" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="Pottay Karim" height="40" width="40" /></a>
 <a href="https://twitter.com/karim_prottay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karimprottay" height="30" width="40" /></a>
