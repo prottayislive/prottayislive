@@ -3,7 +3,7 @@
 ## 🖖 Hi there, I’m 
 # Prottay Karim (PK)</span>
 
-- 👀 I’m interested in working on  ML, Data, and Software Development
+- 👀 I’m interested in working on  ML, Data, and Software Engineering
 - 🌱 I’m currently learning Data Science, Finance & Economics and ML
 - 🚀 I’m looking to contribute/collaborate on any project that helps the developer community.  
 - 🧙 Fun fact- I ❤️ D&D🐉 - Coffee☕ - Video Games🎮
