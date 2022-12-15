@@ -1,4 +1,4 @@
-![1623088485312](https://user-images.githubusercontent.com/70666023/122691198-7fab4400-d271-11eb-9f4b-d4c8324bb38b.jpg)
+![software dev CS Mentor](https://user-images.githubusercontent.com/70666023/207883233-1fb10a95-5004-4cd9-a525-9b3943787265.png)
 
 ## 🖖 Hi there, I’m 
 # Prottay Karim (PK)</span>
