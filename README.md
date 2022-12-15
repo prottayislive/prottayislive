@@ -24,6 +24,7 @@
 <img height = "40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b">
 <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
   <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
+  <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <!---
 prottayislive/prottayislive is your go to connect with me!
 --->
