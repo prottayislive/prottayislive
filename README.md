@@ -22,7 +22,7 @@
 <img height = "50" src="https://www.python.org/static/opengraph-icon-200x200.png"><img height = "50" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"><img height = "50" src="https://docs.zeet.co/assets/images/flask-a3319b33492c2abbf2abfc0403064405.png"> <img height = "50" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"> <img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"><img height = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">                                                <img height = "40" src="https://www.w3schools.com/whatis/img_js.png">
 <img height = "40" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b">
 <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-  <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
+ 
   <img height = "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <!---
 prottayislive/prottayislive is your go to connect with me!
