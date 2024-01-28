@@ -8,14 +8,14 @@
 - 🚀 I’m looking to contribute/collaborate on any project that helps the developer community.  
 - 🧙 Fun fact- I ❤️ D&D🐉 - Coffee☕ - Video Games🎮
 
-- 📫 Email me: [prottayk45@gmail.com](mailto:prottayk45@gmail.com) || [prottay.karim@studentambassadors.com](mailto:prottay.karim@studentambassadors.com)
+- 📫 Email me: [prottayk45@gmail.com](mailto:prottayk45@gmail.com) 
 
 <br></br>
 ## 🔗 Get in touch -
 <p align="left">
 <a href="https://medium.com/@prottaykarim" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="Pottay Karim" height="40" width="40" /></a>
-<a href="https://twitter.com/karim_prottay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karimprottay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prottayk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prottay karim" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/prottaykarim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prottay karim" height="30" width="40" /></a>
 <a href="mailto:prottayk45@gmail.com" target="blank"><img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="Email Prottay Karim" height="40" width="40" /></a>
 
 ## 🛠️ Tools and Technologies -
